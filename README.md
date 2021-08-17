@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/Jammerref2015?tab=repositories)
 
 - 💬 Ask me about **anything**
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jammerref2015&show_icons=true" alt="Jammerref2015" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
  <!--
@@ -52,10 +52,10 @@ Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears o
 -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/adrian-looney/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adrian-looney/" height="20" width="20" /></a>
+<!--   <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
   <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+ <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a> -->
 
 </p>
 
